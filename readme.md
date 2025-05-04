@@ -16,7 +16,7 @@
     - navigate to the hello-world folder (cd tutorials/hello-world)
     - run the command ``` dotnet run ```
 
-2. Working with [Strings]
+2. Working with [Strings] <br>
    a. Concatenation
    - C# is a strongly type language.
    - the '$' sign help to concatenate a string and interpolation of strings occurs by inserting either variables in curly braces {}"
